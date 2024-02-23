@@ -1,1 +1,6 @@
-4120
+#!/bin/bash
+# Get the PID of the current script using the special variable $$
+# Display the PID
+
+pid=$$
+echo "My PID is: $pid"           
