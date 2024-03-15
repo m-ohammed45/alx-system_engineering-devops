@@ -1,2 +1,11 @@
-#!/usr/bin/env ruby
-puts ARGV[0].scan(/School/).join
+# !/usr/bin/env ruby
+
+regex = /School/
+
+input = ARGV[0]
+
+if input.match?(regex)
+  puts input.gsub(regex, 'School') + "$"
+else
+  puts "$"
+end
