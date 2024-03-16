@@ -1,9 +1,19 @@
 #!/usr/bin/env bash
-# Configures an Ubuntu server as follows:
-#   - localhost resolves to 127.0.0.2
-#   - facebook.com resolves to 8.8.8.8
+# Check if the script is running as root
+# Change localhost IP to 127.0.0.2
+# Add a line to /etc/hosts to resolve facebook.com to 8.8.8.8
+# Restart the Docker service to apply the changes
+# Print the current IP configuration
+# Print the current /etc/hosts file
 
-cp /etc/hosts ~/hosts.new
-echo "127.0.0.2		localhost" > ~/hosts.new
-echo "8.8.8.8		facebook.com" >> ~/hosts.new
-cp -f ~/hosts.new /etc/hosts
+if [ "$(id -u)" != "0" ]; then
+   echo "This script must be run as root" 1>&2
+   exit 1
+fi
+
+echo "127.0.0.2 localhost" | sudo tee -a /etc/hosts
+
+echo "8.8.8.8 facebook.com" | sudo tee -a /etc/hosts
+sudo systemctl restart docker
+ip addr show
+cat /etc/hosts
