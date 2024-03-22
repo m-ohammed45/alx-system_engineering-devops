@@ -1,0 +1,23 @@
+https://miro.com/welcomeonboard/SFNvZzgwUEwyVmJ6R0FlQzJFOFFvQTdxVDFrcGNsQjB0YmhKN3J4bXJ1V0FGV01qQk11RVlJd215b2NtSkMwc3wzNDU4NzY0NTgzMjg0NTExMDg3fDI=?share_link_id=846161816614
+
+
+
+A server is a computer or system that provides resources or services to other computers or devices on a network. It can store and manage data, host websites, run applications, and more.
+
+The domain name serves as the unique address of a website on the internet, allowing users to easily access the site by typing in the domain name in their browser.
+
+In the case of www.foobar.com, the DNS record for www is typically a CNAME (Canonical Name) record, which points to the main domain name (foobar.com).
+
+The web server's role is to handle incoming requests from user browsers, retrieve and serve web pages, images, CSS, and other resources to users.
+
+An application server processes user requests, executes application logic, and interacts with databases or other external services to retrieve or store data.
+
+The database server is responsible for storing, managing, and retrieving data for the website or application. It ensures data integrity and provides efficient data access.
+
+The server communicates with the user's computer requesting the website using the HTTP protocol, which allows for the transfer of web pages and resources over the internet.
+
+Issues with this infrastructure include:
+- Single Point of Failure (SPOF): If a critical component like a load balancer fails, it can disrupt the entire system.
+- Downtime during maintenance: Deploying new code or performing maintenance that requires restarting the web server can lead to temporary service interruptions.
+- Inability to scale with high traffic: If the infrastructure cannot handle a sudden increase in incoming traffic, it may result in performance issues or downtime for users.
+ 
