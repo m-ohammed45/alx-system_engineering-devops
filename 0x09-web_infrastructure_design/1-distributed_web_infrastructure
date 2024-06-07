@@ -1,0 +1,5 @@
+https://miro.com/welcomeonboard/UW5pcWp1alpkUEhta3FkVlZHc3I2N1R4WkRIeFZVWDdWeDVqSlVjbGU0anE0MGdTcjJySU5wc1FFWW9sSW5FaHwzNDU4NzY0NTgzMjg0NTExMDg3fDI=?share_link_id=420987242120
+
+- Configure the Load Balancer (HAproxy) to distribute incoming traffic among the web and application servers.
+- Set up the Database Primary-Replica (Master-Slave) Cluster with a primary node for write requests and replica nodes for read requests.
+ 
