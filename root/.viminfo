@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1717779678,,"wq"
+|2,0,1717780981,,"wq"
 :q
 |2,0,1717779669,,"q"
 :WQ
@@ -80,28 +80,32 @@ $
 |3,0,36,0,1,0,1705698403,"<"
 
 # File marks:
-'0  1  0  ~/so_cool
-|4,48,1,0,1717779678,"~/so_cool"
-'1  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
-|4,49,17,0,1715967374,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+'0  1  0  /.git/MERGE_MSG
+|4,48,1,0,1717780981,"/.git/MERGE_MSG"
+'1  1  0  ~/so_cool
+|4,49,1,0,1717779678,"~/so_cool"
 '2  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
-|4,50,17,0,1715967366,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
-'3  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
-|4,51,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
-'4  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,52,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
-'5  1  9  /alx-low_level_programming/0x1E-search_algorithms/101-O
-|4,53,1,9,1715966886,"/alx-low_level_programming/0x1E-search_algorithms/101-O"
-'6  44  0  /alx-low_level_programming/0x1E-search_algorithms/100-jump.c
-|4,54,44,0,1715966579,"/alx-low_level_programming/0x1E-search_algorithms/100-jump.c"
-'7  1  0  /alx-low_level_programming/0x1E-search_algorithms/100-jump.c
-|4,55,1,0,1715966507,"/alx-low_level_programming/0x1E-search_algorithms/100-jump.c"
+|4,50,17,0,1715967374,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+'3  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,51,17,0,1715967366,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+'4  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,52,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+'5  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
+|4,53,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
+'6  1  9  /alx-low_level_programming/0x1E-search_algorithms/101-O
+|4,54,1,9,1715966886,"/alx-low_level_programming/0x1E-search_algorithms/101-O"
+'7  44  0  /alx-low_level_programming/0x1E-search_algorithms/100-jump.c
+|4,55,44,0,1715966579,"/alx-low_level_programming/0x1E-search_algorithms/100-jump.c"
 '8  1  0  /alx-low_level_programming/0x1E-search_algorithms/100-jump.c
 |4,56,1,0,1715966507,"/alx-low_level_programming/0x1E-search_algorithms/100-jump.c"
-'9  12  0  /alx-low_level_programming/0x1E-search_algorithms/100-main.c
-|4,57,12,0,1715966466,"/alx-low_level_programming/0x1E-search_algorithms/100-main.c"
+'9  1  0  /alx-low_level_programming/0x1E-search_algorithms/100-jump.c
+|4,57,1,0,1715966507,"/alx-low_level_programming/0x1E-search_algorithms/100-jump.c"
 
 # Jumplist (newest first):
+-'  1  0  /.git/MERGE_MSG
+|4,39,1,0,1717780981,"/.git/MERGE_MSG"
+-'  1  0  ~/so_cool
+|4,39,1,0,1717779678,"~/so_cool"
 -'  1  0  ~/so_cool
 |4,39,1,0,1717779678,"~/so_cool"
 -'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
@@ -113,6 +117,18 @@ $
 -'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
 |4,39,17,0,1715967374,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
 -'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,17,0,1715967374,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,17,0,1715967374,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,17,0,1715967374,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,17,0,1715967374,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,17,0,1715967366,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,17,0,1715967366,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
 |4,39,17,0,1715967366,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
 -'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
 |4,39,17,0,1715967366,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
@@ -120,6 +136,26 @@ $
 |4,39,17,0,1715967366,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
 -'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
 |4,39,17,0,1715967366,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,17,0,1715967366,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  17  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,17,0,1715967366,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,1,0,1715967217,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,1,0,1715967217,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,1,0,1715967217,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,1,0,1715967217,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,1,0,1715967217,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,1,0,1715967217,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,1,0,1715967217,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
+|4,39,1,0,1715967217,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
 -'  1  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
 |4,39,1,0,1715967217,"/alx-low_level_programming/0x1E-search_algorithms/103-main.c"
 -'  1  0  /alx-low_level_programming/0x1E-search_algorithms/103-main.c
@@ -168,6 +204,70 @@ $
 |4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
 -'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
 |4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  52  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,52,0,1715967196,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
+-'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
+|4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
 -'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
 |4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
 -'  1  0  /alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c
@@ -202,108 +302,12 @@ $
 |4,39,1,0,1715967156,"/alx-low_level_programming/0x1E-search_algorithms/102-interpolation.c"
 -'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
 |4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  7  0  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,7,0,1715967133,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
--'  11  84  /alx-low_level_programming/0x1E-search_algorithms/102-main.c
-|4,39,11,84,1715967065,"/alx-low_level_programming/0x1E-search_algorithms/102-main.c"
 
 # History of marks within files (newest to oldest):
+
+> /.git/MERGE_MSG
+	*	1717780979	0
+	"	1	0
 
 > ~/so_cool
 	*	1717779674	0
@@ -1066,11 +1070,3 @@ $
 	^	8	17
 	.	8	16
 	+	8	16
-
-> /alx-higher_level_programming/0x0E-SQL_more_queries/README.md
-	*	1710326196	0
-	"	1	25
-	^	1	26
-	.	2	0
-	+	1	441
-	+	2	0
