@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/root/0x02_vi'
 let g:netrw_dirhist_2='/alx-system_engineering-devops'
 let g:netrw_dirhist_1='/alx-low_level_programming/0x14-bit_manipulation'

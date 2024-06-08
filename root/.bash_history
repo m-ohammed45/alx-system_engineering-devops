@@ -81,3 +81,42 @@ clear
 cd ..
 clear 
 exit
+cd /root
+mkdir 0x03_vi
+cd 0x03_vi
+vi inserting
+clear 
+cd ~
+cd /root
+pwd
+clear
+vi file 
+ls 
+vi file 
+ls -r
+vi file 
+ls
+vi file 
+vim  file
+rm file 
+clear 
+ls 
+cd 0x03_vi/cutting
+cd 0x03_vi
+vi cutting
+vi pasting
+vi undoing
+vi exiting
+vi undoing
+vi pasting
+echo "0" > /root/0x03_vi/beginning_of_the_line
+echo "$" > /root/0x03_vi/end_of_the_line
+cd ..
+git add .
+git commit -m "Basics vi Commands"
+git push 
+echo "dd" > /root/0x03_vi/cutting
+git add .
+git commit -m "Basics vi Commands"
+git push 
+exit 
