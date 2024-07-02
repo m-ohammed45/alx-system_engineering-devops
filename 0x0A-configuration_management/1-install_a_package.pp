@@ -1,4 +1,4 @@
-# Using Puppet, install puppet-lint
+# Using Puppet, install puppet-lint 
 
 package { 'flask':
   ensure   => '2.1.0',

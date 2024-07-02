@@ -1,10 +1,8 @@
-# Using puppet, create a file with below specifications
+# creates a file in /tmp
 
-file { '/tmp/holberton':
-  ensure  => file,
-  path    => '/tmp/school',
+file { '/tmp/school':
+  content =>'I love Puppet',
   mode    => '0744',
   owner   => 'www-data',
   group   => 'www-data',
-  content => 'I love Puppet'
 }
