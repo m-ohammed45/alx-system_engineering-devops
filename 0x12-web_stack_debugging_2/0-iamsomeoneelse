@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+
+# 1-Check if exactly one argument is provided 2-Store the username argument 3-check if the user exists on the system 
+
+if [ "$#" -ne 1 ]; then
+    echo "Usage: $0 username"
+    exit 1
+fi
+
+USERNAME=$1
+
+if id "$USERNAME" &>/dev/null; then
+    # Switch to the specified user and run the 'whoami' command
+    su -c "whoami" "$USERNAME"
+else
+    echo "User $USERNAME does not exist"
+    exit 1
+fi
+
